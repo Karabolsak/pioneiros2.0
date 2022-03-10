@@ -24,6 +24,7 @@ body {
     /*background-image: linear-gradient(to top, var(--cor6), var(--cor7));*/
     background-image : linear-gradient(to top, #0186b3, #025581);
     max-width: 100%;
+    min-width: auto;
 }
 body::-webkit-scrollbar {
     width: 6px;
